@@ -1,0 +1,19 @@
+C:\Users\Ilya\AppData\Local\Temporary Projects\Mosaic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ilya\AppData\Local\Temporary Projects\Mosaic\obj\Debug\Mosaic.Form1.resources
+C:\Users\Ilya\AppData\Local\Temporary Projects\Mosaic\obj\Debug\Mosaic.Properties.Resources.resources
+C:\Users\Ilya\AppData\Local\Temporary Projects\Mosaic\obj\Debug\Mosaic.csproj.GenerateResource.Cache
+C:\Users\Ilya\AppData\Local\Temporary Projects\Mosaic\bin\Debug\Mosaic.exe
+C:\Users\Ilya\AppData\Local\Temporary Projects\Mosaic\bin\Debug\Mosaic.pdb
+C:\Users\Ilya\AppData\Local\Temporary Projects\Mosaic\obj\Debug\Mosaic.exe
+C:\Users\Ilya\AppData\Local\Temporary Projects\Mosaic\obj\Debug\Mosaic.pdb
+C:\Users\Ilya\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\obj\Debug\Mosaic.exe
+C:\Users\Ilya\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\obj\Debug\Mosaic.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\obj\Debug\Mosaic.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\obj\Debug\Mosaic.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\bin\Debug\Mosaic.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\bin\Debug\Mosaic.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\obj\Debug\Mosaic.Form1.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\obj\Debug\Mosaic.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\obj\Debug\Mosaic.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\Mosaic\Mosaic\obj\Debug\Mosaic.Resource1.resources
